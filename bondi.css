@@ -559,9 +559,10 @@ p.weare {
     .logo img {
         padding: 10px;
     }
-    .newsletter, .footer{
+    .newsletter {
         flex-direction: column;
     }
+    .footer{  flex-direction: column-reverse;}
     .btn-subcribe{
         margin-top: 10px;
     }
